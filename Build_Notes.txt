@@ -1,0 +1,60 @@
+V2
+	Features added:
+		Added Out of Bounds Death
+		Can flap with clicks
+		Can start game from menu and restart level with space bar
+		Background Music
+		Flap, Crash, Point Sound Effects
+		Main Menu and Pause Menu
+		Adjusted Spawner
+		Adjusted Background Res
+		Added restart button to pause
+		Fixed replay button colors
+
+	Features Planned:
+		Adjust Background Music & SFX
+		Windowed Mode
+		Add a quit button
+		Save players score and add name
+		Update home screen
+		Settings- Full Screen, Master Volume, Music Volume, Sound Effect Volume
+		Don't allow pause on game over screen
+
+
+Third Build
+	Features Added:
+		Prevents pause on game over screen
+		Quit to Desktop button on main menu
+		Mute/Unmute Button
+		Volume Slider
+		Updated Home Screen
+		Save Player Score
+		Added falling roast beef to home menu
+		More accuracte roast beef collision
+		Limited Reset Score Button- Not shown on game. Only functional during gameplay
+
+	Features Planned:
+		Adjust Background Music & SFX Seperately
+		Windowed Mode
+		Add name to score
+		Settings- Full Screen, Master Volume, Music Volume, Sound Effect Volume
+		Leaderboard
+		Reset Score Button
+
+Fourth Build
+	Features Added:
+		Settings- Reset Score Button, Name Field
+		Stop Space from starting game on home screen when game is paused on menu (I was clever here)
+
+
+	Features Planned:
+		
+		Keep time running when settings is opened so sandwiches still fall
+
+GitHub Build
+	Features Added:
+		Changed UI render mode and added scaling script to main cameras in scenes to make experience consistent across all devices
+
+
+
+
